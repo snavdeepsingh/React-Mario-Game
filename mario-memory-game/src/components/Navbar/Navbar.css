@@ -1,0 +1,16 @@
+.fixed-top {
+    height: 60px;
+    background-color: #bfbfbf;
+    font-size: 40px;
+    color: white;
+    justify-content: space-around;
+    width: 100%;
+}
+
+
+p {
+    text-transform: uppercase;
+    color: white;
+}
+
+

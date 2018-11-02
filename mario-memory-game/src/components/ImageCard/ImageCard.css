@@ -1,0 +1,23 @@
+.card {
+  padding: 10px;
+  margin-bottom: 10px;
+  border: none;
+  text-align: center;
+  }
+  
+   .card img {
+    margin: auto;
+    padding: 20px;
+    border: 1px solid rgba(0, 0, 0, 0.25);
+    max-height: 200px;
+    max-width: 200px;
+    background-color: #bfbfbf;
+  }
+  
+  /* .card > .content > ul {
+    list-style-type: none;
+  }
+  
+  .card > .content > ul > li {
+    margin-top: 18px;
+  } */

@@ -1,0 +1,16 @@
+.fixed-bottom {
+    height: 60px;
+    background-color: #bfbfbf;
+    font-size: 20px;
+    color: white;
+    justify-content: space-around;
+    width: 100%;
+    margin-bottom: 0px;
+}
+
+
+p {
+    text-transform: uppercase;
+    color: white;
+    text-align: center;
+}

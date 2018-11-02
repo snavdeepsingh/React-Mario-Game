@@ -1,0 +1,13 @@
+.jumbotron {
+    height: 400px;
+    background-image: url("./images/game.jpeg");
+    height: calc(70vh - 66px);
+    padding-top: 120px;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+.lead, h1 {
+    text-transform: uppercase;
+    color: white;
+}

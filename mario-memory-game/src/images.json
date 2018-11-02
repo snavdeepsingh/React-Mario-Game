@@ -1,0 +1,114 @@
+[
+    {
+      "id": 1,
+      "name": "Raccoon Luigi",
+      "clicked": false,
+      "image":
+        "http://1.bp.blogspot.com/-LfIQS3XCxjU/UBB29lqCPFI/AAAAAAACl3M/T6BC_UipFt4/s1600/raccoon_luigi_by_yoshigo99-d4nkx5y.png"
+    },
+    {
+      "id": 2,
+      "name": "Luigi Mario",
+      "clicked": false,
+      "image":
+        "http://www.toptenz.net/wp-content/uploads/2013/05/luigi-mario.png"
+    },
+    {
+        "id": 3,
+        "name": "Goomba",
+        "clicked": false,
+        "image":
+          "http://www.toptenz.net/wp-content/uploads/2013/05/goomba-mario.png"
+    },
+    {
+        "id": 4,
+        "name": "Mario Kart",
+        "clicked": false,
+        "image":
+          "http://www.pngmart.com/files/4/Super-Mario-Kart-PNG-Clipart.png"
+    },
+    {
+        "id": 5,
+        "name": "Star Girl",
+        "clicked": false,
+        "image":
+          "https://pre00.deviantart.net/2479/th/pre/f/2016/358/e/b/super_mario_sunshine_2__princess_peach_by_caitlinthestargirl-dasr27e.png"
+    },
+    {
+        "id": 6,
+        "name": "Yellow Toad",
+        "clicked": false,
+        "image":
+          "http://pre13.deviantart.net/bf20/th/pre/i/2011/317/a/3/yellow_toad_by_yoshigo99-d4g3kep.png"
+    },
+    {
+        "id": 7,
+        "name": "Bowser",
+        "clicked": false,
+        "image":
+          "http://www.toptenz.net/wp-content/uploads/2013/05/bowser-mario.png"
+    },
+    {
+        "id": 8,
+        "name": "Mario",
+        "clicked": false,
+        "image":
+          "http://www.toptenz.net/wp-content/uploads/2013/05/mario-mario.png"
+    },
+    {
+        "id": 9,
+        "name": "Koopa",
+        "clicked": false,
+        "image":
+          "http://static3.wikia.nocookie.net/__cb20111029155023/fantendo/images/3/3d/KoopaSM3DL.png"
+    },
+    {
+        "id": 10,
+        "name": "Hammer Bro",
+        "clicked": false,
+        "image":
+          "https://vignette.wikia.nocookie.net/mario/images/1/1f/Hammer_Bro.%2C_Super_Mario_3D_Land.png/revision/latest?cb=20121106023700"
+    },
+    {
+        "id": 11,
+        "name": "Wario",
+        "clicked": false,
+        "image":
+          "https://vignette.wikia.nocookie.net/mario/images/8/87/MTA_Wario.png/revision/latest?cb=20180610180144"
+    },
+    {
+        "id": 12,
+        "name": "Piranha Plant",
+        "clicked": false,
+        "image":
+          "https://www.mariowiki.com/images/f/f5/Piranha_Plant_NSMBU.png"
+    },
+    {
+        "id": 13,
+        "name": "Ice Flower",
+        "clicked": false,
+        "image":
+          "https://vignette.wikia.nocookie.net/mario/images/6/6a/Ice_flower.png/revision/latest?cb=20120612164159"
+    },
+    {
+        "id": 14,
+        "name": "Boo",
+        "clicked": false,
+        "image":
+          "https://i.pinimg.com/originals/2d/a5/3d/2da53dc7324a30488da5a0960480b722.png"
+    },
+    {
+        "id": 15,
+        "name": "Coin",
+        "clicked": false,
+        "image":
+          "https://vignette.wikia.nocookie.net/mario/images/3/32/Star_Coin.png/revision/latest?cb=20120731132023"
+    },
+    {
+        "id": 16,
+        "name": "Cubo",
+        "clicked": false,
+        "image":
+          "http://www.ans.cl/wp-content/uploads/2012/11/Cubo-Mario.png"
+    }
+  ]
